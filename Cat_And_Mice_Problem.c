@@ -10,9 +10,6 @@
 
 char* readline();
 char** split_string(char*);
-// Complete the catAndMouse function below.
-
-
 char* catAndMouse(int x, int y, int z) {
 
 
