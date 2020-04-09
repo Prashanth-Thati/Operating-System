@@ -11,17 +11,7 @@
 char* readline();
 char** split_string(char*);
 
-// Complete the catAndMouse function below.
 
-// Please either make the string static or allocate on the heap. For example,
-// static char str[] = "hello world";
-// return str;
-//
-// OR
-//
-// char* str = "hello world";
-// return str;
-//
 char* catAndMouse(int x, int y, int z) {
 
 
