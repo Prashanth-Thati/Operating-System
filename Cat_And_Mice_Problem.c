@@ -12,7 +12,6 @@ char* readline();
 char** split_string(char*);
 char* catAndMouse(int x, int y, int z) {
 
-//Cat and Mice Problem
 }
 
 int main()
